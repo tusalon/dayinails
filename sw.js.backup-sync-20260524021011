@@ -1,6 +1,6 @@
 // sw.js - Service Worker para Dayi\'Nails
 
-const CACHE_NAME = 'dayinails-v29';
+const CACHE_NAME = 'dayinails-v25';
 const urlsToCache = [
   '/dayinails/',
   '/dayinails/index.html',
